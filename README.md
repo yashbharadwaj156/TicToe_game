@@ -24,3 +24,5 @@ Impeding a rival's fork: If there is just a single conceivable fork for the adve
 5-Emptycorner: The player plays in a corner square. 
 
 6-Empty side: The player plays in a center square on any of the four sides.
+
+# Open for viewer's valuable suggestion and advice to improve this game.Plz Feel Free to contact me!!!!
